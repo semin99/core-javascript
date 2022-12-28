@@ -13,5 +13,5 @@ console.log('하지만 세미콜론을 명시적으로 추가할 것을 권항�
 /* 
   여러 줄 (multi aines)
   주석 (comment)
-  단축키 art + shipt + a
+  단축키 alt + shift + a
 */
