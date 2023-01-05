@@ -52,3 +52,4 @@ console.log(parseFloat(width,10));
 
 console.log(Boolean(123));
 console.log(!null);  /* !는 부정을 뜻함 */
+
