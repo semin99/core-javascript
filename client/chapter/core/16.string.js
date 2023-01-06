@@ -4,7 +4,7 @@
 
 function checkBrowser(browserName) {
   let browser;
-  let ua = navigator.userAgent.toLowerCase();
+  let ua = navigator.userAgent  ;
   if (ua.indexOf("chrome") >= -1) browser = "chrome";
   else if (ua.indexOf("edge") >= -1) browser = "edge";
   else if (ua.indexOf("whale") >= -1) browser = "whale";
